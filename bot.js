@@ -74,4 +74,4 @@ client.on('message', message => {
 
     
     
-client.login("NTE3NjM5NzAzMDc2Mjc0MTc3.DuFbHg.k0Yo9ireoUIQpLm6PH2VJAvOKRI");    // تم تعديله قبل فيصل
+client.login("");   
